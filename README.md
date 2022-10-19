@@ -6,7 +6,7 @@
 
 This application takes a Google Books API search engine built with a RESTful API and was refactored it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API.
 
-### Tech used in program: HTML,CSS,JavaScript,Node.js
+### Tech used in program: HTML, CSS, JavaScript, Node.js, Concurrently, Apollo, Bootstrap, JSONWebToken, React
 
 # Table of Contents
 
