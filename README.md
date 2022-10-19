@@ -46,3 +46,20 @@ Email me: patrickgp1992@hotmail.com
 # Test
 
 N/A
+
+# Screenshots
+
+* Showing book search function
+<img width="1624" alt="Screen Shot 2022-10-19 at 7 03 19 PM" src="https://user-images.githubusercontent.com/86730331/196820840-2c2867b9-4e70-4c9b-b9b4-5056a42e4cee.png">
+
+* Showing saved books
+<img width="1624" alt="Screen Shot 2022-10-19 at 7 03 45 PM" src="https://user-images.githubusercontent.com/86730331/196820896-3a005922-db21-464b-8a74-f0a576e4c021.png">
+
+* Showing delete saved books button
+<img width="1624" alt="Screen Shot 2022-10-19 at 7 04 00 PM" src="https://user-images.githubusercontent.com/86730331/196820930-96d27eb7-caa6-4fe1-a42b-db2d502a8c9c.png">
+
+* Showing saved books count are reduced after being deleted.
+<img width="1624" alt="Screen Shot 2022-10-19 at 7 04 08 PM" src="https://user-images.githubusercontent.com/86730331/196820974-0f597650-3f55-41fd-af7f-cb7bbf5266e6.png">
+
+
+
